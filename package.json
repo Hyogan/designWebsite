@@ -1,0 +1,13 @@
+{
+  "name": "websitedesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+          "build": "tailwindcss -i ./style.css -o ./css/style.css",
+          "watch" :"tailwindcss -i ./style.css -o ./css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
